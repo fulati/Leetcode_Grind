@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/fulati/Leetcode_Grind/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/fulati/Leetcode_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/fulati/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
+| [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/fulati/Leetcode_Grind/tree/master/0125-valid-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fulati/Leetcode_Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/fulati/Leetcode_Grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/fulati/Leetcode_Grind/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/fulati/Leetcode_Grind/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
