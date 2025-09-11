@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/fulati/Leetcode_Grind/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/fulati/Leetcode_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/fulati/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/fulati/Leetcode_Grind/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fulati/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
