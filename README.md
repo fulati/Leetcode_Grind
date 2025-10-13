@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/fulati/Leetcode_Grind/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/fulati/Leetcode_Grind/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/fulati/Leetcode_Grind/tree/master/0907-koko-eating-bananas) |
+| [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
+| [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/fulati/Leetcode_Grind/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
+| [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fulati/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
