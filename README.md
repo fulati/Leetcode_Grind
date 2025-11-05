@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/fulati/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/fulati/Leetcode_Grind/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/fulati/Leetcode_Grind/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/fulati/Leetcode_Grind/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fulati/Leetcode_Grind/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/fulati/Leetcode_Grind/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/fulati/Leetcode_Grind/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
 ## Dynamic Programming
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/fulati/Leetcode_Grind/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
