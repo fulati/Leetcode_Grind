@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/fulati/Leetcode_Grind/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/fulati/Leetcode_Grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/fulati/Leetcode_Grind/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/fulati/Leetcode_Grind/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fulati/Leetcode_Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/fulati/Leetcode_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fulati/Leetcode_Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/fulati/Leetcode_Grind/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/fulati/Leetcode_Grind/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/fulati/Leetcode_Grind/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/fulati/Leetcode_Grind/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fulati/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/fulati/Leetcode_Grind/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/fulati/Leetcode_Grind/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fulati/Leetcode_Grind/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/fulati/Leetcode_Grind/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/fulati/Leetcode_Grind/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/fulati/Leetcode_Grind/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
