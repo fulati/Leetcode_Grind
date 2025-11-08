@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fulati/Leetcode_Grind/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fulati/Leetcode_Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/fulati/Leetcode_Grind/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/fulati/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
+| [1894-merge-strings-alternately](https://github.com/fulati/Leetcode_Grind/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
