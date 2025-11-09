@@ -3,17 +3,16 @@ class Solution:
         
         output = []
         seen = set()
+        cur = ''
 
-        l, r = 0, 1
-
-        while r < len(s) + 1:
-
-            if s[l:r] not in seen:
-                output.append(s[l:r])
-                seen.add(s[l:r])
-                l = r
+        for c in s: 
             
-            r += 1
+            cur += c
+
+            if cur not in seen: 
+                output.append(cur)
+                seen.add(cur)
+                cur = ''
         
         return output
 
