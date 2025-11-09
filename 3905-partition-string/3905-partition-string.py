@@ -2,17 +2,16 @@ class Solution:
     def partitionString(self, s: str) -> List[str]:
         
         output = []
-        seen = set()
-        cur = ''
+        s_set = set()
+        ch = ''
 
         for c in s: 
-            
-            cur += c
 
-            if cur not in seen: 
-                output.append(cur)
-                seen.add(cur)
-                cur = ''
+            ch += c
+
+            if ch not in s_set: 
+                output.append(ch)
+                s_set.add(ch)
+                ch = ''
         
         return output
-
