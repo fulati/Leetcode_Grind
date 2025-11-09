@@ -11,12 +11,12 @@ class Solution:
         for c in s:
             rows[cur_row] += c
 
-            if cur_row == 0 or cur_row == numRows - 1:
-                going_down = not going_down
+            if cur_row == 0:
+                step = 1
+                
+            elif cur_row == numRows - 1:
+                step = -1
             
-            if going_down: 
-                cur_row += 1
-            else: 
-                cur_row -= 1
+            cur_row += step
 
         return "".join(rows)
