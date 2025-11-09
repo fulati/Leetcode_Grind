@@ -6,7 +6,6 @@ class Solution:
 
         rows = [""] * numRows
         cur_row = 0
-        going_down = False
 
         for c in s:
             rows[cur_row] += c
