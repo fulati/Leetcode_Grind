@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
+| [3905-partition-string](https://github.com/fulati/Leetcode_Grind/tree/master/3905-partition-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/fulati/Leetcode_Grind/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/fulati/Leetcode_Grind/tree/master/1023-time-based-key-value-store) |
 | [1894-merge-strings-alternately](https://github.com/fulati/Leetcode_Grind/tree/master/1894-merge-strings-alternately) |
+| [3905-partition-string](https://github.com/fulati/Leetcode_Grind/tree/master/3905-partition-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/fulati/Leetcode_Grind/tree/master/2169-simple-bank-system) |
+| [3905-partition-string](https://github.com/fulati/Leetcode_Grind/tree/master/3905-partition-string) |
 ## Queue
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/fulati/Leetcode_Grind/tree/master/0014-longest-common-prefix) |
+| [3905-partition-string](https://github.com/fulati/Leetcode_Grind/tree/master/3905-partition-string) |
 ## Bit Manipulation
 |  |
 | ------- |
