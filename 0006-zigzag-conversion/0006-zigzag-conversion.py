@@ -1,21 +1,20 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         
-        if numRows == 1 or numRows >= len(s):
+        if numRows >= len(s) or numRows == 1:
             return s
 
-        rows = [""] * numRows
+        output = [""] * numRows
         cur_row = 0
 
         for c in s:
-            rows[cur_row] += c
+            output[cur_row] += c
 
             if cur_row == 0:
-                step = 1
-                
+                t = 1
             elif cur_row == numRows - 1:
-                step = -1
+                t = -1
             
-            cur_row += step
+            cur_row += t
 
-        return "".join(rows)
+        return "".join(output)
